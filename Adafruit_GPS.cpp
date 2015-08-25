@@ -4,7 +4,6 @@ This is our GPS library
 Adafruit invests time and resources providing this open source code,
 please support Adafruit and open-source hardware by purchasing
 products from Adafruit!
-
  
 Written by Limor Fried/Ladyada for Adafruit Industries.
 BSD license, check license.txt for more information
